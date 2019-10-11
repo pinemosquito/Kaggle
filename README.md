@@ -31,12 +31,11 @@ or mv Download/kaggle.json ~/.kaggle
 
 chmod 600 ~/.kaggle/kaggle.json
 
-5. Checking if it works
+5. Verify
 
 ~/.local/bin/kaggle competitions list
 
-5. Using the API
 
-Sources: 
+Resources
 https://www.kaggle.com/docs/api#getting-started-installation-&-authentication
 https://adityashrm21.github.io/Setting-Up-Kaggle/
